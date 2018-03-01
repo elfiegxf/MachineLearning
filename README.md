@@ -7,7 +7,7 @@ Created by Xiaofei(Elfie) Guo
 	Python (>= 2.7 or >= 3.3),
 	NumPy (>= 1.8.2),
 	SciPy (>= 0.13.3).
-	Sklearn packages. //for preprocessing the txt files.
+	Sklearn. //for preprocessing the txt files.
 	matplotlib. //for plot
 	
 	-To install sklearn packakges, type in terminal using pip:
