@@ -10,23 +10,23 @@ Created by Xiaofei(Elfie) Guo
 	Sklearn //for preprocessing the txt files.
 	matplotlib //for plot
 	
-	-To install sklearn packakges, type in terminal using pip:
+	To install sklearn packakges, type in terminal using pip:
 	
-	pip install -U scikit-learn
+	$pip install -U scikit-learn
 	
 	For more infomation, please check the website below:
 	http://scikit-learn.org/stable/install.html
  
-	-To install matplotlib, type in terminal:
+	To install matplotlib, type in terminal:
 	
-	python -mpip install -U pip
-	python -mpip install -U matplotlib
+	$python -mpip install -U pip
+	$python -mpip install -U matplotlib
 	
 	For more infomation, please check the website below:
 	https://matplotlib.org/users/installing.html
 # How to complie this program:
-	chmod +x COMP135proj1.py
-	python3 COMP135proj1.py
+	$chmod +x COMP135proj1.py
+	$python3 COMP135proj1.py
 # Note:
 	a)Please include the test data files in the same directory as this program.
 	b)There will be some pictures generated in the same directory after running this program.
