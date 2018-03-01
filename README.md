@@ -3,32 +3,31 @@ This directory contains all my ML projects codes.
 
 COMP135 proj1 Version 2.0 Feb/27/2018
 Created by Xiaofei(Elfie) Guo
-----------------------------------
-- pre-request:
+# pre-request:
 	Python (>= 2.7 or >= 3.3),
 	NumPy (>= 1.8.2),
 	SciPy (>= 0.13.3).
 	Sklearn packages. //for preprocessing the txt files.
 	matplotlib. //for plot
 	
-	To install sklearn packakges, type in terminal using pip:
-	----------------------------
+	-To install sklearn packakges, type in terminal using pip:
+	
 	pip install -U scikit-learn
-	----------------------------
+	
 	For more infomation, please check the website below:
 	http://scikit-learn.org/stable/install.html
  
 	To install matplotlib, type in terminal:
-	----------------------------------
+	
 	python -mpip install -U pip
 	python -mpip install -U matplotlib
-	-----------------------------------
+	
 	For more infomation, please check the website below:
 	https://matplotlib.org/users/installing.html
-- How to complie this program:
+# How to complie this program:
 	chmod +x COMP135proj1.py
 	python3 COMP135proj1.py
-- Note:
+# Note:
 	a)Please include the test data files in the same directory as this program.
 	b)There will be some pictures generated in the same directory after running this program.
 	c)It may take several minutes for this program to run.
