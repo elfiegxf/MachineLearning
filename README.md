@@ -40,10 +40,10 @@ Created by Xiaofei(Elfie) Guo
 
 	It contains sentences labelled with positive or negative sentiment, extracted from reviews of products, movies, and restaurants
 
-	Format:
+	-Format:
 	sentence \t score \n
 
-	Details:
+	-Details:
 	Score is either 1 (for positive) or 0 (for negative)	
 	The sentences come from three different websites/fields:
 
